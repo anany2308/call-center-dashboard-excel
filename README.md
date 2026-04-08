@@ -15,7 +15,22 @@ This project is an interactive Excel dashboard designed to analyze call center p
 ---
 
 ## Dashboard Preview
-![Dashboard](images/1_dashboard_preview)
+![Dashboard Preview](images/1_dashboard_preview.png)
+
+## Call Trend Analysis
+![Call Trend](images/2_call_trend.png)
+
+## Caller Demographics
+![Caller Demographics](images/3_Caller_Demographics_gender.png)
+
+## Agent Performance
+![Agent Performance](images/4_Agent_Performance.png)
+
+## Customer Ratings
+![Customer Ratings](images/5_Customer_Ratings.png)
+
+## Sales Analysis
+![Sales Analysis](images/6_sales_analysis.png)
 
 ---
 
