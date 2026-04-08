@@ -15,7 +15,7 @@ This project is an interactive Excel dashboard designed to analyze call center p
 ---
 
 ## Dashboard Preview
-![Dashboard](images/1_dashboard_preview.png)
+![Dashboard](1_dashboard_preview.png)
 
 ---
 
